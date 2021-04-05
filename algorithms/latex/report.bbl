@@ -1,0 +1,130 @@
+\begin{thebibliography}{10}
+
+\bibitem{economist}
+``The world’s most valuable resource is no longer oil, but data.''
+\newblock
+  https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data.
+
+\bibitem{bhageshpur_council_nodate}
+K.~Bhageshpur, ``Council {Post}: {Data} {Is} {The} {New} {Oil} -- {And}
+  {That}'s {A} {Good} {Thing}.''
+\newblock
+  https://www.forbes.com/sites/forbestechcouncil/2019/11/15/data-is-the-new-oil-and-thats-a-good-thing/.
+
+\bibitem{schwab_fourth_2016}
+K.~Schwab, {\em The fourth industrial revolution}.
+\newblock New York: Crown Business, first u.s. edition~ed., 2016.
+
+\bibitem{aurora}
+``Aurora {Supercomputer: Accelerating the convergence of high performance
+  computing (HPC) and AI at Exascale.}.''
+\newblock
+  https://www.intel.com/content/www/us/en/high-performance-computing/supercomputing/exascale-computing.html.
+
+\bibitem{ibm}
+J.~Aron, ``{IBM} unveils its first commercial quantum computer.''
+\newblock
+  https://www.newscientist.com/article/2189909-ibm-unveils-its-first-commercial-quantum-computer/.
+
+\bibitem{tpu}
+``Google supercharges machine learning tasks with {TPU} custom chip.''
+\newblock
+  https://cloud.google.com/blog/products/gcp/google-supercharges-machine-learning-tasks-with-custom-chip/.
+
+\bibitem{bachmann_analytische_1894}
+P.~G.~H. Bachmann, {\em Die analytische {Zahlentheorie}. {Dargestellt} von
+  {Paul} {Bachmann}}.
+\newblock Leipzig B.G. Teubner, 1894.
+
+\bibitem{landau_handbuch_1909}
+E.~Landau, {\em Handbuch der {Lehre} von der {Verteilung} der {Primzahlen}}.
+\newblock Leipzig B.G. Teubner, 1909.
+
+\bibitem{mannionBubbleSort}
+D.~P. Mannion, ``Lecture notes in computational thinking and algorithms,''
+  April 2020.
+\newblock Galway-Mayo Institute of Technology.
+
+\bibitem{harel_algorithmics_2004}
+D.~Harel and Y.~A. Feldman, {\em Algorithmics: the spirit of computing}.
+\newblock Harlow, Essex, England ; New York: Addison Wesley : Pearson
+  Education, 3rd ed~ed., 2004.
+
+\bibitem{heineman_algorithms_2009}
+G.~T. Heineman, S.~Selkow, and G.~Pollice, {\em Algorithms in a nutshell}.
+\newblock Beijing ; Sebastopol [Calif.]: O'Reilly, 2009.
+\newblock OCLC: ocn291100353.
+
+\bibitem{stack}
+``Stack {Overflow} - {Where} {Developers} {Learn}, {Share}, \& {Build}
+  {Careers}.''
+\newblock https://stackoverflow.com/.
+
+\bibitem{wiki}
+``{Wikipedia} {Main} {Page},'' Apr. 2020.
+\newblock https://en.wikipedia.org.
+
+\bibitem{iverson_programming_1962}
+K.~E. Iverson, {\em A programming language}.
+\newblock 1962.
+\newblock OCLC: 523128.
+
+\bibitem{latexTableGenerator}
+TablesGenerator.com, ``Create {LaTeX} tables online –
+  {TablesGenerator}.com.''
+\newblock https://www.tablesgenerator.com/.
+
+\bibitem{hoare_algorithm_1961}
+C.~A.~R. Hoare, ``Algorithm 64: {Quicksort},'' {\em Communications of the ACM},
+  vol.~4, p.~321, July 1961.
+
+\bibitem{quickSort1}
+``Quicksort in {Java} - {Tutorial}.''
+\newblock
+  https://www.vogella.com/tutorials/JavaAlgorithmsQuicksort/article.html.
+
+\bibitem{quickSort2}
+``Implement quick sort in java. - {Java} sorting algorithm programs.''
+\newblock https://www.java2novice.com/java-sorting-algorithms/quick-sort/.
+
+\bibitem{quickSort3}
+``{QUICKSORT} ({Java}, {C}++) {\textbar} {Algorithms} and {Data}
+  {Structures}.''
+\newblock http://www.algolist.net/Algorithms/Sorting/Quicksort.
+
+\bibitem{bentley_general_1980}
+J.~L. Bentley, D.~Haken, and J.~B. Saxe, ``A general method for solving
+  divide-and-conquer recurrences,'' {\em ACM SIGACT News}, vol.~12, pp.~36--44,
+  Sept. 1980.
+
+\bibitem{seward1954information}
+H.~Seward, {\em Information Sorting in the Application of Electronic Digital
+  Computers to Business Operations}.
+\newblock M.I.T. Digital Computer Laboratory, M.I.T. Digital Computer
+  Laboratory, 1954.
+
+\bibitem{counting_sort1}
+``Counting sort,'' May 2014.
+\newblock www.growingwiththeweb.com/2014/05/counting-sort.html.
+
+\bibitem{counting_sort2}
+``Implement {Counting} {Sort} using {Java} + {Performance} {Analysis}
+  {\textbar} {JavaInUse}.''
+\newblock https://www.javainuse.com/java/countingsort.
+
+\bibitem{goldstine1947planning}
+H.~H. Goldstine and J.~Von~Neumann, ``Planning and coding of problems for an
+  electronic computing instrument, part ii, volume ii,'' 1948.
+
+\bibitem{mergeSortEducative}
+I.~Educative, ``How to implement a merge sort in {Java}.''
+\newblock Library Catalog: www.educative.io.
+
+\bibitem{lucidchart}
+L.~S. Inc., ``Lucidchart.com.''
+
+\bibitem{selection_sort}
+``Selection {Sort} in {Java} - {Javatpoint}.''
+\newblock https://www.javatpoint.com/selection-sort-in-java.
+
+\end{thebibliography}
